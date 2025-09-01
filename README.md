@@ -1,12 +1,12 @@
-👋 Hi there! I'm [YOUR NAME HERE]
+👋 Hi there! I'm GUSTAVO
 
 A little about me...
 
-👨‍💻 I’m currently a [YOUR PROFESSION HERE] student at [YOUR UNIVERSITY HERE].
+👨‍💻 I’m currently a IXTUDANTE student at PUCC
 
 🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
 
-💻 My passions include [YOUR HOBBIES HERE].
+💻 My passions include JÔGÁH
 
 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
@@ -20,18 +20,16 @@ Skills & Tools:
 
 Areas of Study & Interest:
 
-Development: [YOUR DEVELOPMENT SKILLS HERE]
+Development: PHIS UN PROGÉTUH DI BANKU DI DADUS.
 
-Infrastructure/Operations: [YOUR INFRASTRUCTURE/OPS SKILLS HERE]
+Infrastructure/Operations: ÇÓ ÇÊI KOKDAHR EN CÊ
 
-Emerging Technologies: [YOUR EMERGING TECH SKILLS HERE]
+Emerging Technologies: NÃUN ÇEI UKI ÇIGUINIPHIKA ISSUH
 
-Other: [YOUR OTHER SKILLS/INTERESTS HERE]
+Other: EU ÇEI BEBER ÁHGUA
 
 🏆 Certifications & Achievements:
 
-[YOUR CERTIFICATIONS AND ACHIEVEMENTS HERE]
+PUQUI KANPINAS
 
-📬 Contact Me:
 
-<div align="center"> <a href="[YOUR LINKEDIN URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="[YOUR INSTAGRAM URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:[YOUR GMAIL HERE]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://api.whatsapp.com/send?phone=[YOUR PHONE NUMBER HERE]" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="[YOUR ALURA URL HERE]" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a> </div>
